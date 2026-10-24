@@ -1,0 +1,5 @@
+[UPISystem]: Registered User1 | Phone: 1234567890 | UPI ID: user1@ok.iiitb
+[UPISystem]: Login failed: No such user uusseerr . Check phone number or name.
+[user1@ok.iiitb]: Login successful.
+[user1@ok.iiitb]: Add money failed: Add-money limit exceeded (max Rs.20000).
+[user1@ok.iiitb]: Added Rs.100.000000 to User1’s wallet. Balance: Rs.100.000000

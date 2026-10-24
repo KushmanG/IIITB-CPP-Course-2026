@@ -1,0 +1,14 @@
+REGISTER alice 1000.00
+REGISTER bob 5000.00
+REJECT dave: Unknown trader dave
+REJECT alice: Insufficient cash
+REJECT alice: Invalid quantity
+REJECT bob: Invalid price
+ACCEPT #1 SELL alice TCS 10/10@40.00
+ACCEPT #2 SELL bob TCS 10/10@45.00
+ACCEPT #3 BUY alice TCS 10/10@45.00
+TRADE TCS 10@45.00 B#3:alice S#2:bob
+REJECT bob: Not your order
+REJECT alice: Order not found
+REJECT alice: Order not found
+CANCEL #1 alice

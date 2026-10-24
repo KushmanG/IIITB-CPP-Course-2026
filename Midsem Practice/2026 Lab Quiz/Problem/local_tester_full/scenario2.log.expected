@@ -1,0 +1,6 @@
+[UPISystem]: Registered User1 | Phone: 1234567890 | UPI ID: user1@ok.iiitb
+[UPISystem]: Registered User2 | Phone: 0987654321 | UPI ID: user2@ok.iiitb
+[user1@ok.iiitb]: Login successful.
+[user1@ok.iiitb]: Added Rs.1000.000000 to User1’s wallet. Balance: Rs.1000.000000
+[user1@ok.iiitb]: Rs.123.000000 debited from user1@ok.iiitb
+[user2@ok.iiitb]: Added Rs.123.000000 to User2’s wallet. Balance: Rs.123.000000

@@ -1,0 +1,22 @@
+OK
+ERR Trader already registered
+OK
+ERR Invalid cash
+ORDER -1
+ORDER -1
+ORDER -1
+ORDER -1
+ORDER 1
+ORDER 2
+ORDER 3
+ASK 40.00 10 (1)
+---
+CANCEL FAIL
+CANCEL FAIL
+CANCEL FAIL
+ERR Unknown symbol INFY
+CANCEL OK
+---
+alice TCS 10 550.00
+bob INFY 0 5450.00
+ERR Unknown trader zed

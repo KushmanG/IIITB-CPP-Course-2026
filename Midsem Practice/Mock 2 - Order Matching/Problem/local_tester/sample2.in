@@ -1,0 +1,22 @@
+REG alice 1000
+REG alice 500
+REG bob 5000
+REG eve -10
+BUY dave TCS 10 1
+BUY alice TCS 100 20
+BUY alice TCS 50 0
+SELL bob TCS 0 5
+SELL alice TCS 40 10
+SELL bob TCS 45 10
+BUY alice TCS 45 10
+BOOK TCS
+CANCEL bob TCS 1
+CANCEL alice TCS 99
+CANCEL alice INFY 1
+BOOK INFY
+CANCEL alice TCS 1
+BOOK TCS
+POS alice TCS
+POS bob INFY
+POS zed TCS
+END

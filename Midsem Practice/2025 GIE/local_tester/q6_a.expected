@@ -1,0 +1,17 @@
+Enter number of tuples in LEFT table: Enter tuples for LEFT table (key value):
+Enter number of tuples in RIGHT table: Enter tuples for RIGHT table (key value):
+
+Executing join...
+Nested Loop Join:
+(1, 260)
+(2, 220)
+(3, 330)
+(2, 225)
+
+Hash Join:
+(2, 220)
+(2, 225)
+(3, 330)
+(1, 260)
+
+Do you want to run another test? (y/n): Bye

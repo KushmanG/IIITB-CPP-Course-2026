@@ -1,0 +1,7 @@
+Week 1:
+Lecture Slides Taught: L1_L2_OOD
+Lab Programs: TomStory.cpp
+
+Aim for weekend:
+    Finish Object Oriented Programming (OOP) in C++ Course by freeCodeCamp.org on youtube (1.5hrs)
+    --> OOP_CPP_1.cpp

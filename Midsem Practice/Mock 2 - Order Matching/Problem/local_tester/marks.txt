@@ -1,0 +1,12 @@
+# test_file     marks  checks  section label
+@COMPILE         15    UML translation (test files compile)
+local_test1       8     3     ExchangeException + Logger
+local_test2      15     4     Order, BuyOrder, SellOrder
+local_test3       5     2     Trade
+local_test4       9     3     OrderBook: basic matching
+local_test5      10     3     OrderBook: price-time priority
+local_test6       8     2     OrderBook: self-trade prevention
+local_test7       8     4     OrderBook: cancel/best/depth
+local_test8      16     5     Exchange
+local_test9a      3     1     End-to-end: sample 1
+local_test9b      3     1     End-to-end: sample 2

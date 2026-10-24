@@ -1,0 +1,11 @@
+# test_file    marks  checks  section label
+lab_wallet       10     3     Wallet (+=, -=, exceptions)
+lab_account       5     2     Account basics + showBalance
+lab_add          15     4     Account::addMoney
+lab_send         20     6     Account::sendMoney
+lab_register     15     4     UPISystem::registerUser
+lab_login        10     3     UPISystem::login
+lab_actions      10     4     doAppAction / doUserAction
+lab_e2e1          5     1     End-to-end: Sample scenario 1
+lab_e2e2          5     1     End-to-end: Sample scenario 2
+lab_e2e3          5     1     End-to-end: Sample scenario 3

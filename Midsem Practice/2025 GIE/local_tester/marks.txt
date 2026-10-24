@@ -1,0 +1,7 @@
+# test_file   marks   checks   section label
+gie_q1   10   3   Q1 Tuple + HashEntry
+gie_q2   10   3   Q2 JoinOperator
+gie_q3   15   3   Q3 NestedLoopJoin
+gie_q4   20   3   Q4 HashTable
+gie_q5   25   4   Q5 HashJoin
+gie_q6   20   2   Q6 main() input

@@ -1,0 +1,19 @@
+Mock 1 is a Rough estimate of what Midterm 2025 asked, however it is too easy so use it to brush up 
+basic programming [90mins]
+
+0. Mock 1 [Done]
+Then:
+1. 2025 GIE 
+2. 2025 Lab 
+3. 2026 Lab
+4. Mock 2
+
+Thats roughly 8hrs of practice at most, but 2025 Lab = Lab 7 with UML diagrams so finish it off quick,
+2026 Lab you've already done most of it so run through that and focus on completing it,
+2025 GIE and Mock 2 need proper sittings so give them the highest priority
+
+Therefore:
+Mock 1 to brush up -> 2025 Lab/2026 Lab [1hr] -> 2025 GIE [90mins] -> Mock 2 [2hrs]
+
+That's about 4.5-5hrs for cpp on wednesday, 1-1.5 on tuesday
+Rest of the time shall go for OS (~5.5 hrs)

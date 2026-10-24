@@ -1,0 +1,23 @@
+0 OK
+0 OK
+1 GraphNets: Alice 0.00 In progress
+1 OK
+2 QuantumWalks: Bob 0.00 In progress
+1 OK
+1 GraphNets: Alice Carol 0.00 In progress
+2 OK
+3 OK
+3 OK
+4 OK
+4 OK
+4 OK
+5 OK
+5 OK
+5 OK
+6 OK
+Rita
+Sam
+2 QuantumWalks: Bob 5.00 Rejected
+1 GraphNets: Alice Carol 7.50 Accepted
+7 OK
+9 OK
